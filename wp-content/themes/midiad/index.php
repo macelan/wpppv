@@ -1,5 +1,5 @@
-    <?php get_header(); ?>
-    <div class="content-area">
+<?php get_header(); ?>
+	<div class="content-area">
 		<main>
 			<section class="slide">Slide</section>
 			<section class="services">Serviços</section>
@@ -10,4 +10,4 @@
 			<section class="map">Mapa</section>
 		</main>
 	</div>
-    <?php get_footer(); ?>
+<?php get_footer(); ?>
